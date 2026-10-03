@@ -4,6 +4,10 @@ A Java implementation of the classic Minesweeper game with clearly separated gam
 
 This project was developed as an individual university project for the **Software Development (Java)** course at the **University of Sarajevo – Faculty of Science**.
 
+## Screenshot
+
+<img src="screenshots/gui-game.png" width="300">
+
 ## Features
 
 - Randomly generated Minesweeper boards
